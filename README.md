@@ -30,34 +30,106 @@ class Thejus:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">💬 Pico WebChat</h3>
       <p align="center">
-        Real-time chat app with public & private messaging + <b>Pico</b>, a persistent AI companion per user.
+        Real-time chat app with public & private messaging + <b>Pico</b>, a persistent AI companion unique to each user.
         <br/><br/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/Groq-LLaMA-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Groq_LLaMA-FF6B35?style=flat-square"/>
         <br/><br/>
         <a href="https://pico-webchat-8ae310cf.fastapicloud.dev/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴%20Live%20Demo-0A84FF?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🔴 Live Demo-0A84FF?style=for-the-badge"/>
         </a>
-        <a href="https://github.com/iamThejus/Pico-WebChat" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+        <a href="https://github.com/IamThejus/Pico-WebChat" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ More Coming Soon</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 SaraGama</h3>
       <p align="center">
-        Always building something new.<br/>Stay tuned!
+        Cross-platform Flutter music player that streams audio from YouTube — no ads, no video, just music. Features queue management, background playback, lyrics, and smart URL caching.
         <br/><br/>
-        <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hive-FF6600?style=flat-square"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/SaraGama" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕹️ Remote-X</h3>
+      <p align="center">
+        Universal IR remote system — control ACs, TVs and more from your phone. Built with Flutter, Firebase, and a Raspberry Pi Pico for IR signal transmission.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/Remote-X" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 SNGCE Attendance API</h3>
+      <p align="center">
+        FastAPI backend that automates login to the SNGCE portal, scrapes attendance data, and returns it as clean structured JSON. Live with Swagger UI docs.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <br/><br/>
+        <a href="https://sngce-fastapi.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔴 Live Demo-0A84FF?style=for-the-badge"/>
+        </a>
+        <a href="https://github.com/IamThejus/sngce-fastapi" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Insurance Cost Predictor</h3>
+      <p align="center">
+        Flask web app that predicts medical insurance costs using a Linear Regression model trained on real-world Kaggle data. Enter age, BMI, region and smoking status — get an instant estimate.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/Medical-Insurance-Cost-Prediction" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 RPiPico Telegram Bot</h3>
+      <p align="center">
+        A MicroPython Telegram bot that runs directly on a Raspberry Pi Pico W — no extra libraries, just built-in MicroPython modules. Perfect for IoT automation and remote control projects.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/RPiPico-Telegram-Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -95,9 +167,10 @@ class Thejus:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="ai"/>
-  <img width="12"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logoColor=white" height="40" alt="groq"/>
   <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logoColor=white" height="40" alt="llama"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" alt="sklearn"/>
 </div>
 
 <br/>
@@ -121,7 +194,7 @@ class Thejus:
 **Tools & Environment**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" height="40" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,vercel" height="40" alt="tools"/>
 </div>
 
 ---
