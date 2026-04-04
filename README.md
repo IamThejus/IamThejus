@@ -70,6 +70,24 @@ class Thejus:
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🎧 SaraGama API</h3>
+      <p align="center">
+        Free REST API powering music apps — built on top of YouTube Music data. Supports song search, recommendations, playlist fetching, and trending charts. Ships with an interactive docs UI.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+        <br/><br/>
+        <a href="https://saragama-render.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/🔴 Live Demo-0A84FF?style=for-the-badge"/>
+        </a>
+        <a href="https://github.com/IamThejus/SaraGama-API" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🕹️ Remote-X</h3>
       <p align="center">
         Universal IR remote system — control ACs, TVs and more from your phone. Built with Flutter, Firebase, and a Raspberry Pi Pico for IR signal transmission.
@@ -84,6 +102,8 @@ class Thejus:
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 SNGCE Attendance API</h3>
       <p align="center">
@@ -101,8 +121,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏥 Insurance Cost Predictor</h3>
       <p align="center">
@@ -118,6 +136,8 @@ class Thejus:
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📡 RPiPico Telegram Bot</h3>
       <p align="center">
@@ -132,6 +152,7 @@ class Thejus:
         </a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
