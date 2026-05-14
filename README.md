@@ -86,8 +86,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎧 SaraGama API</h3>
       <p align="center">
