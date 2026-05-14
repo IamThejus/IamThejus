@@ -120,7 +120,6 @@ class Thejus:
       </p>
     </td>
   </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 SNGCE Attendance API</h3>
       <p align="center">
