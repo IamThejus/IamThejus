@@ -53,6 +53,27 @@ class Thejus:
       </p>
     </td>
     <td width="50%" valign="top">
+    <h3 align="center">🏠 IRIS</h3>
+    <p align="center">
+      AI-powered local-first smart home assistant capable of controlling real-world appliances using voice commands, infrared communication, realtime interfaces, and embedded AI automation.
+      <br/><br/>
+
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io"/>
+      <img src="https://img.shields.io/badge/Whisper_AI-FF6B35?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Porcupine-6a11cb?style=flat-square"/>
+      
+      <br/><br/>
+
+      <a href="https://github.com/IamThejus/IRIS" target="_blank">
+        <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </p>
+  </td>
+    <td width="50%" valign="top">
       <h3 align="center">🎵 SaraGama</h3>
       <p align="center">
         Cross-platform Flutter music player that streams audio from YouTube — no ads, no video, just music. Features queue management, background playback, lyrics, and smart URL caching.
