@@ -86,8 +86,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎧 SaraGama API</h3>
       <p align="center">
@@ -106,6 +104,7 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🕹️ Remote-X</h3>
       <p align="center">
@@ -121,8 +120,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 SNGCE Attendance API</h3>
       <p align="center">
@@ -140,6 +137,7 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🏥 Insurance Cost Predictor</h3>
       <p align="center">
@@ -155,8 +153,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📡 RPiPico Telegram Bot</h3>
       <p align="center">
