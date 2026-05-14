@@ -52,8 +52,6 @@ class Thejus:
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
     <h3 align="center">🏠 IRIS</h3>
     <p align="center">
