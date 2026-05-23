@@ -35,23 +35,41 @@ class Thejus:
 <table>
   <tr>
     <td width="50%" valign="top">
-    <h3 align="center">🏠 IRIS</h3>
-    <p align="center">
-      AI-powered local-first smart home assistant capable of controlling real-world appliances using voice commands, infrared communication, realtime interfaces, and embedded AI automation.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io"/>
-      <img src="https://img.shields.io/badge/Whisper_AI-FF6B35?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Porcupine-6a11cb?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/IamThejus/IRIS" target="_blank">
-        <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </p>
-  </td>
+      <h3 align="center">🏍️ MotoNav</h3>
+      <p align="center">
+        Motorcycle navigation companion — the phone does GPS, routing, and search, then pushes compact turn-by-turn BLE packets to an ESP32-C3 with a GC9A01 240×240 circular display. Supports offline map tile caching for areas with no data coverage.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/motonav" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 IRIS</h3>
+      <p align="center">
+        AI-powered local-first smart home assistant capable of controlling real-world appliances using voice commands, infrared communication, realtime interfaces, and embedded AI automation.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/Whisper_AI-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Porcupine-6a11cb?style=flat-square"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/IRIS" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">💬 Pico WebChat</h3>
       <p align="center">
@@ -70,7 +88,6 @@ class Thejus:
         </a>
       </p>
     </td>
-    <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🎵 SaraGama</h3>
       <p align="center">
@@ -86,6 +103,7 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🎧 SaraGama API</h3>
       <p align="center">
@@ -104,7 +122,6 @@ class Thejus:
         </a>
       </p>
     </td>
-   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🕹️ Remote-X</h3>
       <p align="center">
@@ -120,6 +137,7 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 SNGCE Attendance API</h3>
       <p align="center">
@@ -137,7 +155,6 @@ class Thejus:
         </a>
       </p>
     </td>
-   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🏥 Insurance Cost Predictor</h3>
       <p align="center">
@@ -153,6 +170,7 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">📡 RPiPico Telegram Bot</h3>
       <p align="center">
@@ -163,24 +181,6 @@ class Thejus:
         <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
         <br/><br/>
         <a href="https://github.com/IamThejus/RPiPico-Telegram-Bot" target="_blank">
-          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-   <tr></tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏍️ MotoNav</h3>
-      <p align="center">
-        Motorcycle navigation companion — the phone does GPS, routing, and search, then pushes compact turn-by-turn BLE packets to an ESP32-C3 with a GC9A01 240×240 circular display. Supports offline map tile caching for areas with no data coverage.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
-        <br/><br/>
-        <a href="https://github.com/IamThejus/motonav" target="_blank">
           <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
