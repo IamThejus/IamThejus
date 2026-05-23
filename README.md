@@ -167,6 +167,24 @@ class Thejus:
         </a>
       </p>
     </td>
+   <tr></tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏍️ MotoNav</h3>
+      <p align="center">
+        Motorcycle navigation companion — the phone does GPS, routing, and search, then pushes compact turn-by-turn BLE packets to an ESP32-C3 with a GC9A01 240×240 circular display. Supports offline map tile caching for areas with no data coverage.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/motonav" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
