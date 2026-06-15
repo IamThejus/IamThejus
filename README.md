@@ -35,6 +35,21 @@ class Thejus:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🎵 Gravity Music</h3>
+      <p align="center">
+        Cross-platform Flutter music player that streams audio from YouTube — no ads, no video, just music. Features queue management, background playback, lyrics, and smart URL caching.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hive-FF6600?style=flat-square"/>
+        <br/><br/>
+        <a href="https://github.com/IamThejus/Gravity-Music" target="_blank">
+          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🏍️ MotoNav</h3>
       <p align="center">
         Motorcycle navigation companion — the phone does GPS, routing, and search, then pushes compact turn-by-turn BLE packets to an ESP32-C3 with a GC9A01 240×240 circular display. Supports offline map tile caching for areas with no data coverage.
@@ -51,6 +66,7 @@ class Thejus:
         </a>
       </p>
     </td>
+    <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">🏠 IRIS</h3>
       <p align="center">
@@ -69,7 +85,6 @@ class Thejus:
         </a>
       </p>
     </td>
-    <tr></tr>
     <td width="50%" valign="top">
       <h3 align="center">💬 Pico WebChat</h3>
       <p align="center">
@@ -84,21 +99,6 @@ class Thejus:
           <img src="https://img.shields.io/badge/🔴 Live Demo-0A84FF?style=for-the-badge"/>
         </a>
         <a href="https://github.com/IamThejus/Pico-WebChat" target="_blank">
-          <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎵 SaraGama</h3>
-      <p align="center">
-        Cross-platform Flutter music player that streams audio from YouTube — no ads, no video, just music. Features queue management, background playback, lyrics, and smart URL caching.
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hive-FF6600?style=flat-square"/>
-        <br/><br/>
-        <a href="https://github.com/IamThejus/SaraGama" target="_blank">
           <img src="https://img.shields.io/badge/Source Code-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
